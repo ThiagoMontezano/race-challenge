@@ -30,20 +30,8 @@ target/classes/
 
 target/
 
-\.gradle/4\.8\.1/fileChanges/
+\.gradle/
 
-\.gradle/4\.8\.1/fileContent/
+**/build
 
-\.gradle/4\.8\.1/fileHashes/
-
-\.gradle/4\.8\.1/taskHistory/
-
-\.gradle/buildOutputCleanup/
-
-\.gradle/vcsWorkingDirs/
-
-out/production/resources/
-
-out/test/resources/file/
-
-build/tmp/bootJar/
+**/out
